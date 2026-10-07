@@ -1,2 +1,14 @@
 # HelloFreeCAD
-Fusion 360 does not works on Steam OS, so let's take this time to check if FreeCAD work in Steam Frame.
+
+Fusion 360 does not work on SteamOS, so let's take this time to check if FreeCAD works on Steam Frame.
+
+Eve asked me if I could show her the basics of Fusion, but I think FreeCAD is better in this context.
+As I am learning to work within the Steam Frame, I want to give FreeCAD a chance.
+
+So let's try it.
+
+For the project, we need:
+
+* dog bone
+* parameters
+* knockdown
