@@ -18,3 +18,11 @@ For the project, we need:
 Tutorials:
 - https://www.youtube.com/watch?v=6ZfzcIYEKWw&list=PLUrr_kHPp4vgVuaIrLU1EWYwDHxRkBg0U
 - https://www.youtube.com/watch?v=346eq5n4Gyc&list=PLUrr_kHPp4vimEl_M7ADh7cwd2B3Jr7mo
+
+
+Eve project to say hello to the tool:
+- https://hub.shapertools.com/creators/65b0b65ec1a92fe1a11c56d0/shares/6946b0a8df68358963e06b8b
+
+Used by her:
+- 
+
