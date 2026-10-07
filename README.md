@@ -23,6 +23,11 @@ Tutorials:
 Eve project to say hello to the tool:
 - https://hub.shapertools.com/creators/65b0b65ec1a92fe1a11c56d0/shares/6946b0a8df68358963e06b8b
 
-Used by her:
-- 
+
+
+If you like FreeCAD, you will also like:
+- Krita
+- InkScape
+- 💲LightBurn
+
 
