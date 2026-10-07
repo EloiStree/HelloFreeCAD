@@ -12,3 +12,9 @@ For the project, we need:
 * dog bone
 * parameters
 * knockdown
+
+
+
+Tutorials:
+- https://www.youtube.com/watch?v=6ZfzcIYEKWw&list=PLUrr_kHPp4vgVuaIrLU1EWYwDHxRkBg0U
+- https://www.youtube.com/watch?v=346eq5n4Gyc&list=PLUrr_kHPp4vimEl_M7ADh7cwd2B3Jr7mo
